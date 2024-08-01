@@ -19,3 +19,7 @@ Kullanıcıların ürünleri sepete eklemesine, miktarlarını ayarlamasına ve 
 
 <h2> Harici Kullanımlar</h2>
 HTML,CSS ve JS özellikleri kullanıldı.
+
+<h2> Ekran Görüntüsü</h2>
+![giff](https://github.com/user-attachments/assets/70c4a7e2-aabd-4aba-a654-86244fefad6a)
+
